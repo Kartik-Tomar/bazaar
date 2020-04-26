@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffd9d550.chunk.css",
+    "main.js": "/static/js/main.7a9abc23.chunk.js",
+    "main.js.map": "/static/js/main.7a9abc23.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.784c586e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.784c586e.js.map",
+    "static/js/2.0887188b.chunk.js": "/static/js/2.0887188b.chunk.js",
+    "static/js/2.0887188b.chunk.js.map": "/static/js/2.0887188b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2c5bdfc7f91d757b1330290a1cfc3224.js": "/precache-manifest.2c5bdfc7f91d757b1330290a1cfc3224.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ffd9d550.chunk.css.map": "/static/css/main.ffd9d550.chunk.css.map",
+    "static/js/2.0887188b.chunk.js.LICENSE.txt": "/static/js/2.0887188b.chunk.js.LICENSE.txt",
+    "static/media/logo-black.png": "/static/media/logo-black.8aa08c88.png",
+    "static/media/logo-white.png": "/static/media/logo-white.36c69a89.png",
+    "static/media/shopping1.jpeg": "/static/media/shopping1.503f5e1a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.784c586e.js",
+    "static/js/2.0887188b.chunk.js",
+    "static/css/main.ffd9d550.chunk.css",
+    "static/js/main.7a9abc23.chunk.js"
+  ]
+}
