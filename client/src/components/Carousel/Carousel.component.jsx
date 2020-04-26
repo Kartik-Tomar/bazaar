@@ -28,10 +28,7 @@ class Carousel extends Component {
               </h3>
               <p className="text-right">
                 <Link to="/postad">
-                  <button
-                    className="btn btn-outline-info btn-lg col-6"
-                    role="button"
-                  >
+                  <button className="btn btn-outline-info btn-lg col-6">
                     <span className="text-white">Sell Now »</span>
                   </button>
                 </Link>
@@ -59,10 +56,7 @@ class Carousel extends Component {
               </h3>
               <p className="text-center">
                 <Link to="/postad">
-                  <button
-                    className="btn btn-outline-info btn-lg col-6"
-                    role="button"
-                  >
+                  <button className="btn btn-outline-info btn-lg col-6">
                     <span className="text-white">Sell Now »</span>
                   </button>
                 </Link>
